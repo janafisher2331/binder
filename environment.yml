@@ -10,7 +10,7 @@ dependencies:
   - matplotlib
   - pandas
   - plotly
-  - scikitlearn
+  - scikit-learn
   - r-dpylyr
   - r-ggplot2
   - r-reshape2
